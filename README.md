@@ -4,6 +4,8 @@
 
 Welcome to the project on classification using Convolutional Neural Networks. We will continue to work with the Street View Housing Numbers (SVHN) image dataset for this project.
 
+Note: This project was used to compare the performance of a CNN vs. ANN on image classification problems. The ANN Method is uploaded as part of the repo.
+
 --------------
 ## **Context** 
 --------------
