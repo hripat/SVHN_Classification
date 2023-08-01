@@ -1,6 +1,5 @@
 # **Artificial Neural Networks Project: Street View Housing Number Digit Recognition**
 
-# **Marks: 30**
 
 Welcome to the project on classification using Artificial Neural Networks. We will work with the Street View Housing Numbers (SVHN) image dataset for this project.
 
